@@ -1,5 +1,7 @@
-#AUTHOR : GUCCIFER SHUBHAM
-#INSTAGRAM : SHUBHUSHUBHU99
+# Encrypted by Guccifer Shubham
+# Github- https://github.com/shubhushubhu99/IG502
+# Contact no: +91 9485875345
+# contact me for paid banning and Instagram hacking services
 
 shubhushubhu = ""
 shubhushubhu += "\x61\x57\x31\x77\x62\x33\x4a\x30\x49\x48"
