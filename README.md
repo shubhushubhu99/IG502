@@ -14,9 +14,7 @@
 
 ```cd IG502```
 
-```pip install -r requirements.txt```
-
-```python3 Reports.py```
+```python3 setup.py```
 
 ### Packages and Dependencies
 
@@ -25,7 +23,7 @@
 
 ### Or, Use Single Command
 ```
-apt install git p && git clone https://github.com/shubhushubhu99/IG502.git && cd IG502 && pip install -r requirements.txt && python Reports.py 
+apt install git p && git clone https://github.com/shubhushubhu99/IG502.git && cd IG502 && python setup.py 
 ```
 
 ### Features:
