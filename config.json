@@ -1,0 +1,8 @@
+{
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "target": "VICTIM_USERNAME",
+    "reason_id": "ANY NUMBER FROM 1 TO 4",
+    "count": 100000,  
+    "use_proxy": true
+}
