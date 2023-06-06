@@ -1,0 +1,7 @@
+os.system('pip install requests')
+os.system('pip install colorama')
+os.system('pip install termcolor')
+os.system('pip install pyfiglet')
+os.system('pip install rich')
+os.system('pip install selenium')
+os.system('pip install getpass')
