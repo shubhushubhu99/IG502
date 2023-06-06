@@ -9,10 +9,12 @@
 ### [+] Installation
 
 ```apt install git ```
+```pkg install python ```
 
 ```git clone https://github.com/shubhushubhu99/IG502.git```
 
 ```cd IG502```
+```pip install -r requirements.txt```
 
 ```python3 Reports.py```
 
@@ -23,7 +25,7 @@
 
 ### Or, Use Single Command
 ```
-apt install git p && git clone https://github.com/shubhushubhu99/IG502.git && cd IG502 && python Reports.py 
+apt install git p && git clone https://github.com/shubhushubhu99/IG502.git && cd IG502 && pip install -r requirements.txt && python Reports.py 
 ```
 
 ### Features:
@@ -44,10 +46,9 @@ apt install git p && git clone https://github.com/shubhushubhu99/IG502.git && cd
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.messenger.com/t/100029217502143)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhushubhu99/)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](www.darksquad.online)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](www.darksquads.com)
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhushubhu99/)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/darksquads)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/instareport2)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Lg4LzNPVDms4jiygADSLbZ)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/dark_squads)
 
 ## NOTE: To buy this tool dm me on instagram @shubhushubhu99
