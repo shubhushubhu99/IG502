@@ -51,4 +51,5 @@ apt install git p && git clone https://github.com/shubhushubhu99/IG502.git && cd
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/darksquads)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/dark_squads)
 
-## NOTE: To buy this tool dm me on instagram @shubhushubhu99
+## NOTE: To buy this tool dm me on instagram @shubhushubhu99 
+## Tool Price just 8 usd$
