@@ -1,7 +1,9 @@
-pip install requests
-pip install colorama
-pip install termcolor
-pip install pyfiglet
-pip install rich
-pip install getpass
-pip install selenium
+requests
+colorama
+termcolor
+pyfiglet
+rich
+getpass
+pyinput
+itercolors
+webbrowser
