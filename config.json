@@ -1,8 +1,8 @@
 {
-    "username": "USERNAME",
-    "password": "PASSWORD",
-    "target": "VICTIM_USERNAME",
-    "reason_id": "ANY NUMBER FROM 1 TO 4",
+    "username": "fxydgch",
+    "password": " 3232323",
+    "target": "y1m_9",
+    "reason_id": "4",
     "count": 100000,  
-    "use_proxy": true
+    "use_proxy": false
 }
