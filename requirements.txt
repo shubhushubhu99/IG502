@@ -5,5 +5,4 @@ pyfiglet
 rich
 getpass
 pyinput
-itercolors
 webbrowser

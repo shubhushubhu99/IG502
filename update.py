@@ -9,7 +9,6 @@ Y = "\033[1;43m"
 B = "\033[1;44m"
 w = "\033[1;37m"
 g = "\033[0;90m"
-y = r
 
 #----------------modules
 from os import system,name
