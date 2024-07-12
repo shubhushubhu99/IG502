@@ -38,7 +38,8 @@ apt install git p && git clone https://github.com/shubhushubhu99/IG502.git && cd
 #### Main View:
 
 <img src="Screenshot_20240712_182358.jpg">
-<img src="IG502.1">
+<img src="Screenshot_20240712_182413.jpg">
+<img src="Screenshot_20240712_182506.jpg">
 
  
 
