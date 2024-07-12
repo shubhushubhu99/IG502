@@ -27,12 +27,14 @@ print('''
       \033[93m╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝''')          
 
 #-------update
-system('rm -rf Reports.py')
+system('cd')
+system('rm -rf IG502')
 sleep(0.1)
-system('wget https://raw.githubusercontent.com/shubhushubhu99/IG502/main/Reports.py')
+system('git clone https://github.com/shubhushubhu99/IG502')
 sleep(0.1)
 print(r+"└─ "+w+"\033[1;37m>> IG502 Updated Sucessfully <<")
 sleep(0.5)
 
-# ---------return to Reports.py file 
+# ---------return to Reports.py file
+system('cd IG502')
 system('python Reports.py' if name=='nt' else 'python3 Reports.py')
